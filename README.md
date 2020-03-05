@@ -23,4 +23,7 @@ Detailed Designing of Movie Ticket Booking System similar to BookMyShow
 - Discount coupons made available during booking.
 - Download movie ticket
 - Share movie ticket
+- User can provide ratings:
+  - Movie Rating
+  - Cinema Hall Rating
 
