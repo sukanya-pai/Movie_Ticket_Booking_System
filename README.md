@@ -23,7 +23,13 @@ Detailed Designing of Movie Ticket Booking System similar to BookMyShow
 - Discount coupons made available during booking.
 - Download movie ticket
 - Share movie ticket
-- User can provide ratings:
+- User can provide ratings and feedback:
   - Movie Rating
   - Cinema Hall Rating
+  
+ # Non Functional Requirement:
+ - System should be available to everyone at all times
+ - System should be consistent and show accurate results
+ - System should handle heavy request flows since many users can login to the system at same time
+ - System should be secure
 
